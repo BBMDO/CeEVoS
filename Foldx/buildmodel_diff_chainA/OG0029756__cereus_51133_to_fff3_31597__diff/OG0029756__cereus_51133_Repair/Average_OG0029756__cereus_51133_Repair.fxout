@@ -1,0 +1,17 @@
+FoldX 4 (2011)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: batch
+Output type: BuildModel
+Pdb	SD	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+OG0029756__cereus_51133_Repair_1	0	-1.27087	0	0	-0.0746336	0	-0.225187	-0.207695	0	0.0280993	-0.790678	0	0	0	-0.000774267	0	0	0	0	0	0	0	0
+OG0029756__cereus_51133_Repair_2	0	-0.149804	-4.52688e-05	0	0.00507735	0	-0.0958265	-0.0613202	-0.001104	-0.0193308	0.0227941	0	0	0	-4.91774e-05	0.0320588	0	0	0	0	0	0	0
+OG0029756__cereus_51133_Repair_3	0	-0.603755	-0.541291	-0.541291	0.0770622	0	-0.158685	0.17305	-0.00376208	0.53441	-0.0708491	0	0	-0.0427241	-0.0296755	-9.9476e-14	0	0	0	0	0	0	0
+OG0029756__cereus_51133_Repair_4	0	1.51873	2.84217e-14	0	-0.0823665	0	0.230781	-0.0421963	1.35182	0.0110789	0.0465018	0	0	-7.10543e-15	0.00311587	-9.9476e-14	0	0	0	0	0	0	0
+OG0029756__cereus_51133_Repair_5	0	-1.06926	-4.54747e-13	-4.26326e-13	0.103162	0	-0.0167834	0.215415	-0.694906	-0.137736	-1.76006	0	0	-0.814493	2.03614	9.9476e-14	0	0	0	0	0	0	0
+OG0029756__cereus_51133_Repair_6	0	-0.35803	0	0	0.166508	-0.0385424	0.00665689	0.363493	-0.676758	-0.118967	-0.0572207	0	0	0	-0.00320006	0	0	0	0	0	0	0	0
+OG0029756__cereus_51133_Repair_7	0	0.534732	0	0	0.0381303	-0.0857509	-0.0293429	0.00494684	3.55271e-15	0.0856077	0.452641	0	0	0	0.0684991	0	0	0	0	0	0	0	0
+OG0029756__cereus_51133_Repair_8	0	1.06775	-4.54747e-13	-4.26326e-13	0.604674	-0.117639	-0.0878911	1.04069	-0.00930353	-0.211325	-0.15145	0	0	-2.66454e-15	1.84741e-13	-0.00901546	0	0	0	0	0	0	0

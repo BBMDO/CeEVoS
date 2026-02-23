@@ -1,0 +1,8 @@
+group_id	hash	representative	file	length	is_representative	group_size
+1	25cd10f33104932d489ddd50742aeaaa	Cereus_19790.fasta	Cereus_19790.fasta	146	1	1
+2	31d363eb11a48a2b783f43149b00e5b0	FFFF_12384.fasta	FFFF_12384.fasta	144	1	1
+3	4df300dc46d5941d72e3d360220ac00d	FFFI_25351.fasta	FFFI_25351.fasta	144	1	1
+4	6bf3f2b5f82b32ef0be93443d42db22d	FFFE_19967.fasta	FFFE_19967.fasta	145	1	1
+5	a597e739f3b18c79e3ea737f5ec843bc	FFFD_23291.fasta	FFFD_23291.fasta	145	1	1
+6	ba9e07ada20674e5ee5a31d1fe482ece	FFFG_47024.fasta	FFFG_47024.fasta	145	1	1
+7	c618dd3722ade1026a75c65dc6aff421	FFFH_5761.fasta	FFFH_5761.fasta	142	1	1

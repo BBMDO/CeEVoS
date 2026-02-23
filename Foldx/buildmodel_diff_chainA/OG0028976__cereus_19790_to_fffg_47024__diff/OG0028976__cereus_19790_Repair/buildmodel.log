@@ -1,0 +1,514 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OG0028976__cereus_19790_Repair.pdb
+
+BackHbond       =               -69.05
+SideHbond       =               -30.00
+Energy_VdW      =               -98.63
+Electro         =               -0.75
+Energy_SolvP    =               137.68
+Energy_SolvH    =               -124.97
+Energy_vdwclash =               1.02
+energy_torsion  =               0.71
+backbone_vdwclash=              51.82
+Entropy_sidec   =               52.66
+Entropy_mainc   =               189.57
+water bonds     =               0.00
+helix dipole    =               -2.77
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.17
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  55.63
+
+Starting BuildModel
+Reading AA10P;
+Reading PA12R;
+Reading RA13K;
+Reading GA14L;
+Reading LA15W;
+Reading WA16K;
+Reading KA17L;
+Reading LA18F;
+Reading FA19S;
+Reading SA20T;
+Reading TA21S;
+Reading SA22A;
+Reading AA23F;
+Reading FA24N;
+Reading NA25F;
+Reading FA26T;
+Reading TA27P;
+Reading PA30S;
+Reading SA33Q;
+Reading QA34S;
+Reading PA36S;
+Reading SA37A;
+Reading AA38P;
+Reading PA40A;
+Reading PA41A;
+Reading AA42E;
+Reading EA43P;
+Reading PA44S;
+Reading SA45P;
+Reading PA46N;
+Reading NA47L;
+Reading LA48F;
+Reading FA49V;
+Reading VA50S;
+Reading SA51G;
+Reading GA52L;
+Reading LA53S;
+Reading SA54R;
+Reading RA56T;
+Reading TA59E;
+Reading EA60G;
+Reading GA61L;
+Reading LA62H;
+Reading HA63E;
+Reading EA64A;
+Reading AA65F;
+Reading FA66S;
+Reading SA67K;
+Reading KA68F;
+Reading FA69G;
+Reading GA70E;
+Reading EA71V;
+Reading VA73H;
+Reading HA74A;
+Reading AA75K;
+Reading KA76V;
+Reading VA78T;
+Reading TA79D;
+Reading DA80R;
+Reading RA81V;
+Reading VA82S;
+Reading SA83G;
+Reading GA84F;
+Reading FA85S;
+Reading SA86K;
+Reading KA87G;
+Reading GA88F;
+Reading FA89G;
+Reading GA90F;
+Reading FA91V;
+Reading VA92R;
+Reading RA93Y;
+Reading YA94A;
+Reading AA95T;
+Reading TA97E;
+Reading EA99A;
+Reading AA100R;
+Reading RA101A;
+Reading AA102G;
+Reading GA103I;
+Reading IA104Q;
+Reading QA105G;
+Reading GA106M;
+Reading MA107D;
+Reading DA108A;
+Reading AA109K;
+Reading KA110F;
+Reading FA111L;
+Reading LA112D;
+Reading DA113G;
+Reading GA114W;
+Reading WA115V;
+Reading VA116I;
+Reading IA117F;
+Reading FA118A;
+Reading AA119E;
+Reading EA120F;
+Reading FA121A;
+Reading AA122R;
+Reading RA123P;
+Reading PA124R;
+Reading RA125P;
+Reading PA128A;
+Reading AA129T;
+Reading TA130Q;
+Reading QA131P;
+Reading PA132S;
+Reading SA133N;
+Reading NA134G;
+Reading GA135H;
+Reading HA136P;
+Reading PA138Y;
+Reading YA139S;
+Reading SA140T;
+Reading TA141N;
+Reading NA143R;
+Reading RA144Q;
+Residue to Mutate ALAA10 has residue index 9
+Residue to Mutate PROA12 has residue index 11
+Residue to Mutate ARGA13 has residue index 12
+Residue to Mutate GLYA14 has residue index 13
+Residue to Mutate LEUA15 has residue index 14
+Residue to Mutate TRPA16 has residue index 15
+Residue to Mutate LYSA17 has residue index 16
+Residue to Mutate LEUA18 has residue index 17
+Residue to Mutate PHEA19 has residue index 18
+Residue to Mutate SERA20 has residue index 19
+Residue to Mutate THRA21 has residue index 20
+Residue to Mutate SERA22 has residue index 21
+Residue to Mutate ALAA23 has residue index 22
+Residue to Mutate PHEA24 has residue index 23
+Residue to Mutate ASNA25 has residue index 24
+Residue to Mutate PHEA26 has residue index 25
+Residue to Mutate THRA27 has residue index 26
+Residue to Mutate PROA30 has residue index 29
+Residue to Mutate SERA33 has residue index 32
+Residue to Mutate GLNA34 has residue index 33
+Residue to Mutate PROA36 has residue index 35
+Residue to Mutate SERA37 has residue index 36
+Residue to Mutate ALAA38 has residue index 37
+Residue to Mutate PROA40 has residue index 39
+Residue to Mutate PROA41 has residue index 40
+Residue to Mutate ALAA42 has residue index 41
+Residue to Mutate GLUA43 has residue index 42
+Residue to Mutate PROA44 has residue index 43
+Residue to Mutate SERA45 has residue index 44
+Residue to Mutate PROA46 has residue index 45
+Residue to Mutate ASNA47 has residue index 46
+Residue to Mutate LEUA48 has residue index 47
+Residue to Mutate PHEA49 has residue index 48
+Residue to Mutate VALA50 has residue index 49
+Residue to Mutate SERA51 has residue index 50
+Residue to Mutate GLYA52 has residue index 51
+Residue to Mutate LEUA53 has residue index 52
+Residue to Mutate SERA54 has residue index 53
+Residue to Mutate ARGA56 has residue index 55
+Residue to Mutate THRA59 has residue index 58
+Residue to Mutate GLUA60 has residue index 59
+Residue to Mutate GLYA61 has residue index 60
+Residue to Mutate LEUA62 has residue index 61
+Residue to Mutate HISA63 has residue index 62
+Residue to Mutate GLUA64 has residue index 63
+Residue to Mutate ALAA65 has residue index 64
+Residue to Mutate PHEA66 has residue index 65
+Residue to Mutate SERA67 has residue index 66
+Residue to Mutate LYSA68 has residue index 67
+Residue to Mutate PHEA69 has residue index 68
+Residue to Mutate GLYA70 has residue index 69
+Residue to Mutate GLUA71 has residue index 70
+Residue to Mutate VALA73 has residue index 72
+Residue to Mutate HISA74 has residue index 73
+Residue to Mutate ALAA75 has residue index 74
+Residue to Mutate LYSA76 has residue index 75
+Residue to Mutate VALA78 has residue index 77
+Residue to Mutate THRA79 has residue index 78
+Residue to Mutate ASPA80 has residue index 79
+Residue to Mutate ARGA81 has residue index 80
+Residue to Mutate VALA82 has residue index 81
+Residue to Mutate SERA83 has residue index 82
+Residue to Mutate GLYA84 has residue index 83
+Residue to Mutate PHEA85 has residue index 84
+Residue to Mutate SERA86 has residue index 85
+Residue to Mutate LYSA87 has residue index 86
+Residue to Mutate GLYA88 has residue index 87
+Residue to Mutate PHEA89 has residue index 88
+Residue to Mutate GLYA90 has residue index 89
+Residue to Mutate PHEA91 has residue index 90
+Residue to Mutate VALA92 has residue index 91
+Residue to Mutate ARGA93 has residue index 92
+Residue to Mutate TYRA94 has residue index 93
+Residue to Mutate ALAA95 has residue index 94
+Residue to Mutate THRA97 has residue index 96
+Residue to Mutate GLUA99 has residue index 98
+Residue to Mutate ALAA100 has residue index 99
+Residue to Mutate ARGA101 has residue index 100
+Residue to Mutate ALAA102 has residue index 101
+Residue to Mutate GLYA103 has residue index 102
+Residue to Mutate ILEA104 has residue index 103
+Residue to Mutate GLNA105 has residue index 104
+Residue to Mutate GLYA106 has residue index 105
+Residue to Mutate META107 has residue index 106
+Residue to Mutate ASPA108 has residue index 107
+Residue to Mutate ALAA109 has residue index 108
+Residue to Mutate LYSA110 has residue index 109
+Residue to Mutate PHEA111 has residue index 110
+Residue to Mutate LEUA112 has residue index 111
+Residue to Mutate ASPA113 has residue index 112
+Residue to Mutate GLYA114 has residue index 113
+Residue to Mutate TRPA115 has residue index 114
+Residue to Mutate VALA116 has residue index 115
+Residue to Mutate ILEA117 has residue index 116
+Residue to Mutate PHEA118 has residue index 117
+Residue to Mutate ALAA119 has residue index 118
+Residue to Mutate GLUA120 has residue index 119
+Residue to Mutate PHEA121 has residue index 120
+Residue to Mutate ALAA122 has residue index 121
+Residue to Mutate ARGA123 has residue index 122
+Residue to Mutate PROA124 has residue index 123
+Residue to Mutate ARGA125 has residue index 124
+Residue to Mutate PROA128 has residue index 127
+Residue to Mutate ALAA129 has residue index 128
+Residue to Mutate THRA130 has residue index 129
+Residue to Mutate GLNA131 has residue index 130
+Residue to Mutate PROA132 has residue index 131
+Residue to Mutate SERA133 has residue index 132
+Residue to Mutate ASNA134 has residue index 133
+Residue to Mutate GLYA135 has residue index 134
+Residue to Mutate HISA136 has residue index 135
+Residue to Mutate PROA138 has residue index 137
+Residue to Mutate TYRA139 has residue index 138
+Residue to Mutate SERA140 has residue index 139
+Residue to Mutate THRA141 has residue index 140
+Residue to Mutate ASNA143 has residue index 142
+Residue to Mutate ARGA144 has residue index 143
+Mutating residue = ALAA10 into PRO
+Mutating residue = PROA12 into ARG
+Mutating residue = ARGA13 into LYS
+Mutating residue = GLYA14 into LEU
+Mutating residue = LEUA15 into TRP
+Mutating residue = TRPA16 into LYS
+Mutating residue = LYSA17 into LEU
+Mutating residue = LEUA18 into PHE
+Mutating residue = PHEA19 into SER
+Mutating residue = SERA20 into THR
+Mutating residue = THRA21 into SER
+Mutating residue = SERA22 into ALA
+Mutating residue = ALAA23 into PHE
+Mutating residue = PHEA24 into ASN
+Mutating residue = ASNA25 into PHE
+Mutating residue = PHEA26 into THR
+Mutating residue = THRA27 into PRO
+Mutating residue = PROA30 into SER
+Mutating residue = SERA33 into GLN
+Mutating residue = GLNA34 into SER
+Mutating residue = PROA36 into SER
+Mutating residue = SERA37 into ALA
+Mutating residue = ALAA38 into PRO
+Mutating residue = PROA40 into ALA
+Mutating residue = PROA41 into ALA
+Mutating residue = ALAA42 into GLU
+Mutating residue = GLUA43 into PRO
+Mutating residue = PROA44 into SER
+Mutating residue = SERA45 into PRO
+Mutating residue = PROA46 into ASN
+Mutating residue = ASNA47 into LEU
+Mutating residue = LEUA48 into PHE
+Mutating residue = PHEA49 into VAL
+Mutating residue = VALA50 into SER
+Mutating residue = SERA51 into GLY
+Mutating residue = GLYA52 into LEU
+Mutating residue = LEUA53 into SER
+Mutating residue = SERA54 into ARG
+Mutating residue = ARGA56 into THR
+Mutating residue = THRA59 into GLU
+Mutating residue = GLUA60 into GLY
+Mutating residue = GLYA61 into LEU
+Mutating residue = LEUA62 into HIS
+Mutating residue = H2SA63 into GLU
+Mutating residue = GLUA64 into ALA
+Mutating residue = ALAA65 into PHE
+Mutating residue = PHEA66 into SER
+Mutating residue = SERA67 into LYS
+Mutating residue = LYSA68 into PHE
+Mutating residue = PHEA69 into GLY
+Mutating residue = GLYA70 into GLU
+Mutating residue = GLUA71 into VAL
+Mutating residue = VALA73 into HIS
+Mutating residue = H2SA74 into ALA
+Mutating residue = ALAA75 into LYS
+Mutating residue = LYSA76 into VAL
+Mutating residue = VALA78 into THR
+Mutating residue = THRA79 into ASP
+Mutating residue = ASPA80 into ARG
+Mutating residue = ARGA81 into VAL
+Mutating residue = VALA82 into SER
+Mutating residue = SERA83 into GLY
+Mutating residue = GLYA84 into PHE
+Mutating residue = PHEA85 into SER
+Mutating residue = SERA86 into LYS
+Mutating residue = LYSA87 into GLY
+Mutating residue = GLYA88 into PHE
+Mutating residue = PHEA89 into GLY
+Mutating residue = GLYA90 into PHE
+Mutating residue = PHEA91 into VAL
+Mutating residue = VALA92 into ARG
+Mutating residue = ARGA93 into TYR
+Mutating residue = TYRA94 into ALA
+Mutating residue = ALAA95 into THR
+Mutating residue = THRA97 into GLU
+Mutating residue = GLUA99 into ALA
+Mutating residue = ALAA100 into ARG
+Mutating residue = ARGA101 into ALA
+Mutating residue = ALAA102 into GLY
+Mutating residue = GLYA103 into ILE
+Mutating residue = ILEA104 into GLN
+Mutating residue = GLNA105 into GLY
+Mutating residue = GLYA106 into MET
+Mutating residue = META107 into ASP
+Mutating residue = ASPA108 into ALA
+Mutating residue = ALAA109 into LYS
+Mutating residue = LYSA110 into PHE
+Mutating residue = PHEA111 into LEU
+Mutating residue = LEUA112 into ASP
+Mutating residue = ASPA113 into GLY
+Mutating residue = GLYA114 into TRP
+Mutating residue = TRPA115 into VAL
+Mutating residue = VALA116 into ILE
+Mutating residue = ILEA117 into PHE
+Mutating residue = PHEA118 into ALA
+Mutating residue = ALAA119 into GLU
+Mutating residue = GLUA120 into PHE
+Mutating residue = PHEA121 into ALA
+Mutating residue = ALAA122 into ARG
+Mutating residue = ARGA123 into PRO
+Mutating residue = PROA124 into ARG
+Mutating residue = ARGA125 into PRO
+Mutating residue = PROA128 into ALA
+Mutating residue = ALAA129 into THR
+Mutating residue = THRA130 into GLN
+Mutating residue = GLNA131 into PRO
+Mutating residue = PROA132 into SER
+Mutating residue = SERA133 into ASN
+Mutating residue = ASNA134 into GLY
+Mutating residue = GLYA135 into HIS
+Mutating residue = H1SA136 into PRO
+Mutating residue = PROA138 into TYR
+Mutating residue = TYRA139 into SER
+Mutating residue = SERA140 into THR
+Mutating residue = THRA141 into ASN
+Mutating residue = ASNA143 into ARG
+Mutating residue = ARGA144 into GLN
+Your file run OK
+End time of FoldX: Sun Feb 15 22:06:37 2026
+Total time spend: 603.37 seconds.
+validated file "OG0028976__cereus_19790_Repair_1.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_2.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_3.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_4.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_5.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_6.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_7.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_8.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_9.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_10.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_11.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_12.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_13.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_14.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_15.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_16.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_17.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_18.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_19.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_20.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_21.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_22.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_23.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_24.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_25.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_26.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_27.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_28.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_29.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_30.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_31.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_32.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_33.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_34.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_35.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_36.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_37.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_38.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_39.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_40.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_41.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_42.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_43.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_44.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_45.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_46.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_47.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_48.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_49.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_50.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_51.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_52.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_53.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_54.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_55.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_56.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_57.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_58.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_59.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_60.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_61.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_62.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_63.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_64.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_65.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_66.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_67.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_68.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_69.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_70.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_71.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_72.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_73.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_74.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_75.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_76.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_77.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_78.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_79.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_80.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_81.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_82.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_83.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_84.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_85.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_86.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_87.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_88.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_89.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_90.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_91.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_92.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_93.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_94.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_95.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_96.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_97.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_98.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_99.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_100.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_101.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_102.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_103.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_104.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_105.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_106.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_107.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_108.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_109.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_110.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_111.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_112.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_113.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_114.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_115.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_116.pdb" => successfully finished
+validated file "OG0028976__cereus_19790_Repair_117.pdb" => successfully finished
+Cleaning BuildModel...DONE

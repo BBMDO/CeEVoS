@@ -1,0 +1,18 @@
+[{
+ "name": "FFFD_23291",
+ "modelSeeds": [
+  "2001195636"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MALRAAVAAPPRKLWKLFSTSAFNFTPPPSSSQSSSAPSPAEPSPNLFVSGLSRRTTTEGLHEAFSKFGEVVHAKVVTDRVSGFSKGFGFVRYATTEEARAGIQGMDAKFLDGWVIFAEFARPRPPPATQPSNGHPPYSTNNRQ",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

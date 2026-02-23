@@ -1,0 +1,78 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OG0029756__cereus_51133_Repair.pdb
+
+BackHbond       =               -99.50
+SideHbond       =               -71.31
+Energy_VdW      =               -125.02
+Electro         =               -0.56
+Energy_SolvP    =               173.10
+Energy_SolvH    =               -163.64
+Energy_vdwclash =               24.68
+energy_torsion  =               37.29
+backbone_vdwclash=              54.92
+Entropy_sidec   =               108.71
+Entropy_mainc   =               536.78
+water bonds     =               0.00
+helix dipole    =               -4.70
+loop_entropy    =               0.00
+cis_bond        =               4.76
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.91
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  421.50
+
+Starting BuildModel
+Reading SA6P;
+Reading YA46F;
+Reading IA134N;
+Reading GA225S;
+Reading PA227A;
+Reading DA242G;
+Reading PA264R;
+Reading YA268D;
+Residue to Mutate SERA6 has residue index 5
+Residue to Mutate TYRA46 has residue index 45
+Residue to Mutate ILEA134 has residue index 133
+Residue to Mutate GLYA225 has residue index 224
+Residue to Mutate PROA227 has residue index 226
+Residue to Mutate ASPA242 has residue index 241
+Residue to Mutate PROA264 has residue index 263
+Residue to Mutate TYRA268 has residue index 267
+Mutating residue = SERA6 into PRO
+Mutating residue = TYRA46 into PHE
+Mutating residue = ILEA134 into ASN
+Mutating residue = GLYA225 into SER
+Mutating residue = PROA227 into ALA
+Mutating residue = ASPA242 into GLY
+Mutating residue = PROA264 into ARG
+Mutating residue = TYRA268 into ASP
+Your file run OK
+End time of FoldX: Sun Feb 15 23:59:24 2026
+Total time spend: 6.77 seconds.
+validated file "OG0029756__cereus_51133_Repair_1.pdb" => successfully finished
+validated file "OG0029756__cereus_51133_Repair_2.pdb" => successfully finished
+validated file "OG0029756__cereus_51133_Repair_3.pdb" => successfully finished
+validated file "OG0029756__cereus_51133_Repair_4.pdb" => successfully finished
+validated file "OG0029756__cereus_51133_Repair_5.pdb" => successfully finished
+validated file "OG0029756__cereus_51133_Repair_6.pdb" => successfully finished
+validated file "OG0029756__cereus_51133_Repair_7.pdb" => successfully finished
+validated file "OG0029756__cereus_51133_Repair_8.pdb" => successfully finished
+Cleaning BuildModel...DONE

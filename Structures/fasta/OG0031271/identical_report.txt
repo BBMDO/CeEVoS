@@ -1,0 +1,13 @@
+OG folder: OG0031271
+Total FASTA files: 3
+Unique sequences (100%): 3
+
+[Group 01] size=1  rep=FFFG_91372.fasta  length=131  hash=02a792d68e9f91606195a0c3641dbb3e
+  - REP	FFFG_91372.fasta	len=131
+
+[Group 02] size=1  rep=FFFE_6748.fasta  length=131  hash=4da0355b478eed952e669c2c44dbf99a
+  - REP	FFFE_6748.fasta	len=131
+
+[Group 03] size=1  rep=FFFD_39141.fasta  length=131  hash=f2d05e48cccc98c8c43e8055e9387f7c
+  - REP	FFFD_39141.fasta	len=131
+

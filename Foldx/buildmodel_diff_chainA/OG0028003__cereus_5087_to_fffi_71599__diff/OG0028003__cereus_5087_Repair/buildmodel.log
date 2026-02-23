@@ -1,0 +1,74 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OG0028003__cereus_5087_Repair.pdb
+
+BackHbond       =               -242.02
+SideHbond       =               -102.13
+Energy_VdW      =               -400.30
+Electro         =               -19.81
+Energy_SolvP    =               515.99
+Energy_SolvH    =               -527.83
+Energy_vdwclash =               6.70
+energy_torsion  =               4.01
+backbone_vdwclash=              127.80
+Entropy_sidec   =               205.13
+Entropy_mainc   =               578.53
+water bonds     =               0.00
+helix dipole    =               -4.07
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.85
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  18.30
+
+Starting BuildModel
+Reading DA109N;
+Reading RA157H;
+Reading FA173V;
+Reading AA180N;
+Reading AA209G;
+Reading TA254S;
+Reading AA368V;
+Residue to Mutate ASPA109 has residue index 108
+Residue to Mutate ARGA157 has residue index 156
+Residue to Mutate PHEA173 has residue index 172
+Residue to Mutate ALAA180 has residue index 179
+Residue to Mutate ALAA209 has residue index 208
+Residue to Mutate THRA254 has residue index 253
+Residue to Mutate ALAA368 has residue index 367
+Mutating residue = ASPA109 into ASN
+Mutating residue = ARGA157 into HIS
+Mutating residue = PHEA173 into VAL
+Mutating residue = ALAA180 into ASN
+Mutating residue = ALAA209 into GLY
+Mutating residue = THRA254 into SER
+Mutating residue = ALAA368 into VAL
+Your file run OK
+End time of FoldX: Sun Feb 15 20:49:09 2026
+Total time spend: 35.41 seconds.
+validated file "OG0028003__cereus_5087_Repair_1.pdb" => successfully finished
+validated file "OG0028003__cereus_5087_Repair_2.pdb" => successfully finished
+validated file "OG0028003__cereus_5087_Repair_3.pdb" => successfully finished
+validated file "OG0028003__cereus_5087_Repair_4.pdb" => successfully finished
+validated file "OG0028003__cereus_5087_Repair_5.pdb" => successfully finished
+validated file "OG0028003__cereus_5087_Repair_6.pdb" => successfully finished
+validated file "OG0028003__cereus_5087_Repair_7.pdb" => successfully finished
+Cleaning BuildModel...DONE

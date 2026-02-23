@@ -1,0 +1,50 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OG0029756__cereus_51133_Repair.pdb
+
+BackHbond       =               -99.50
+SideHbond       =               -71.31
+Energy_VdW      =               -125.02
+Electro         =               -0.56
+Energy_SolvP    =               173.10
+Energy_SolvH    =               -163.64
+Energy_vdwclash =               24.68
+energy_torsion  =               37.29
+backbone_vdwclash=              54.92
+Entropy_sidec   =               108.71
+Entropy_mainc   =               536.78
+water bonds     =               0.00
+helix dipole    =               -4.70
+loop_entropy    =               0.00
+cis_bond        =               4.76
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.91
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  421.50
+
+Starting BuildModel
+Reading KA177E;
+Residue to Mutate LYSA177 has residue index 176
+Mutating residue = LYSA177 into GLU
+Your file run OK
+End time of FoldX: Mon Feb 16 00:05:15 2026
+Total time spend: 2.47 seconds.
+validated file "OG0029756__cereus_51133_Repair_1.pdb" => successfully finished
+Cleaning BuildModel...DONE

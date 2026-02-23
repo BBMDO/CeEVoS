@@ -1,0 +1,18 @@
+[{
+ "name": "FFFG_47024",
+ "modelSeeds": [
+  "1051968248"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MALRAAAAAPPRKLWKLFSTSAFNFTPPPSSSQSSSAPPAAEPSPNLFVSGLSRRTTTEGLHEAFSKFGEVVHAKVVTDRVSGFSKGFGFVRYATTEEARAGIQGMDAKFLDGWVIFAEFARPRPPPATQPSNGHPPYSTNNRQ",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

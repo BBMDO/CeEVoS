@@ -1,0 +1,22 @@
+OG folder: OG0030099
+Total FASTA files: 6
+Unique sequences (100%): 6
+
+[Group 01] size=1  rep=FFFE_34513.fasta  length=476  hash=6ae35924ec577b99f7ba030a6435edaf
+  - REP	FFFE_34513.fasta	len=476
+
+[Group 02] size=1  rep=FFFH_73284.fasta  length=476  hash=968058516af99e8ba8c1564837e810f4
+  - REP	FFFH_73284.fasta	len=476
+
+[Group 03] size=1  rep=FFFF_67669.fasta  length=476  hash=a61bfdccfc9267ec4244e35effb21504
+  - REP	FFFF_67669.fasta	len=476
+
+[Group 04] size=1  rep=FFFG_69053.fasta  length=476  hash=a8e535cb76c3d5cab713b8a70cf627d4
+  - REP	FFFG_69053.fasta	len=476
+
+[Group 05] size=1  rep=Cereus_76980.fasta  length=476  hash=aeb2dd6b7b881e095808dd9b8846892e
+  - REP	Cereus_76980.fasta	len=476
+
+[Group 06] size=1  rep=FFFI_66515.fasta  length=476  hash=f334cf6e069594a2a47679fe557e1f4d
+  - REP	FFFI_66515.fasta	len=476
+

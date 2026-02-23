@@ -1,0 +1,78 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: OG0030099__cereus_76980_Repair.pdb
+
+BackHbond       =               -278.87
+SideHbond       =               -125.99
+Energy_VdW      =               -496.69
+Electro         =               -15.40
+Energy_SolvP    =               616.92
+Energy_SolvH    =               -673.09
+Energy_vdwclash =               12.46
+energy_torsion  =               6.00
+backbone_vdwclash=              175.27
+Entropy_sidec   =               289.62
+Entropy_mainc   =               686.10
+water bonds     =               0.00
+helix dipole    =               -6.58
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             1.74
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  16.22
+
+Starting BuildModel
+Reading SA218R;
+Reading RA221W;
+Reading RA222S;
+Reading NA300D;
+Reading SA325L;
+Reading PA355A;
+Reading TA377I;
+Reading AA439N;
+Residue to Mutate SERA218 has residue index 217
+Residue to Mutate ARGA221 has residue index 220
+Residue to Mutate ARGA222 has residue index 221
+Residue to Mutate ASNA300 has residue index 299
+Residue to Mutate SERA325 has residue index 324
+Residue to Mutate PROA355 has residue index 354
+Residue to Mutate THRA377 has residue index 376
+Residue to Mutate ALAA439 has residue index 438
+Mutating residue = SERA218 into ARG
+Mutating residue = ARGA221 into TRP
+Mutating residue = ARGA222 into SER
+Mutating residue = ASNA300 into ASP
+Mutating residue = SERA325 into LEU
+Mutating residue = PROA355 into ALA
+Mutating residue = THRA377 into ILE
+Mutating residue = ALAA439 into ASN
+Your file run OK
+End time of FoldX: Mon Feb 16 00:11:54 2026
+Total time spend: 62.00 seconds.
+validated file "OG0030099__cereus_76980_Repair_1.pdb" => successfully finished
+validated file "OG0030099__cereus_76980_Repair_2.pdb" => successfully finished
+validated file "OG0030099__cereus_76980_Repair_3.pdb" => successfully finished
+validated file "OG0030099__cereus_76980_Repair_4.pdb" => successfully finished
+validated file "OG0030099__cereus_76980_Repair_5.pdb" => successfully finished
+validated file "OG0030099__cereus_76980_Repair_6.pdb" => successfully finished
+validated file "OG0030099__cereus_76980_Repair_7.pdb" => successfully finished
+validated file "OG0030099__cereus_76980_Repair_8.pdb" => successfully finished
+Cleaning BuildModel...DONE
